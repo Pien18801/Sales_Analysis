@@ -54,6 +54,18 @@ Dựa vào biểu đồ trên ta có thể thấy được cửa hàng có xu h�
 
 ![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/101be8f5-54cd-40ec-a8c8-79d3500c0d74)
 
+Biểu đồ trên thể hiện rằng "phone", "chair", "stogare" là những danh mục con chiếm tỷ lệ doanh số nhiều nhất trong mỗi danh mục lần lượt là 39.47%, 44.27% và 31.13%. Cửa hàng có thể tăng doanh số bằng cách tập trung vào các sub-category có tiềm năng cao hơn hoặc cân nhắc việc đẩy mạnh quảng cáo cho những sub-category có tỷ lệ thấp hơn.
+
+4. Có mối liên hệ nào giữa danh mục sản phẩm và phân khúc khách hàng?
+
+![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/c2663b0a-e838-44af-bab5-f7eea95df7f2)
+
+Nhìn vào biểu đồ trên ta có thể thấy rằng tỷ lệ doanh số của từng phân khúc khách hàng trong mỗi danh mục sản phẩm không đồng đều. Tức là, mỗi danh mục sản phẩm có một sự phân phối khách hàng riêng. Tỷ lệ doanh số của phân khúc "consumer" cho danh mục "furniture" là cao nhất so hai danh mục còn lại (52.7% so với 48.6% và 50.6%), hay của phân khúc "corporate" cho danh mục "office supplies" là cao nhất (32.08% so với 30.87% và 29.47%). Cửa hàng có thể tối ưu hóa chiến lược kinh doanh bằng cách tập trung vào các danh mục sản phẩm và phân khúc khách hàng có tỷ lệ doanh số cao nhất. Điều này giúp tăng hiệu suất kinh doanh và đáp ứng nhu cầu của khách hàng một cách tốt nhất.
+
+### Dashboard
+
+![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/daa364b4-0c1c-46cc-b0a3-25b2bf93ce02)
+
 
 
 
