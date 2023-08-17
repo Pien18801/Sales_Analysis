@@ -35,5 +35,7 @@ Sau khi đã có dữ liệu ta sẽ tiến hành kiểm tra và làm sạch d�
 
 ### Data analysis
 Danh mục sản phẩm nào có doanh số bán hàng cao nhất?
+
 ![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/3f9c32dd-5e51-4694-ab6e-4d7cd4185107)
+
 dfsdgsdfgdsg
