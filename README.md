@@ -24,3 +24,4 @@ Sales: Doanh số bán hàng của sản phẩm.
 Quantity: Số lượng của sản phẩm.
 Discount: Giảm giá được cung cấp.
 Profit: Lợi nhuận/Thua lỗ gánh chịu.
+
