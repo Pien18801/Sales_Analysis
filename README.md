@@ -38,6 +38,9 @@ Sau khi đã có dữ liệu ta sẽ tiến hành kiểm tra và làm sạch d�
 
 ![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/3f9c32dd-5e51-4694-ab6e-4d7cd4185107)
 
-Từ biểu đồ trên ta có thể thấy doanh số cao nhất thuộc về danh mục technology (36.4%).
+Từ biểu đồ trên ta có thể thấy danh mục "technology" có doanh số cao nhất (36.4%). Điều này cho thấy rằng các sản phẩm công nghệ có ảnh hưởng lớn đến doanh số bán hàng. Cửa hàng nên tiếp tục tập trung vào việc phát triển, tiếp thị và cung cấp các sản phẩm công nghệ để duy trì và tăng cường doanh số bán hàng.
+Tỷ lệ doanh số giữa danh mục "furniture" và "office supplies" khá gần nhau, lần lượt là 32.3% và 31.3%. Điều này cho thấy rằng mua sắm đối với nội thất và văn phòng là hai yếu tố có sự quan trọng tương đương đối với khách hàng. Cửa hàng có thể đề xuất các chiến lược kinh doanh tương ứng để cải thiện hiệu suất và tối ưu hóa lợi nhuận từ cả hai danh mục này.
+
+
 
 
