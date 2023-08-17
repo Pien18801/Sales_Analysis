@@ -28,9 +28,12 @@ Profit: Lợi nhuận/Thua lỗ gánh chịu.
 Sau khi đã có dữ liệu ta sẽ tiến hành kiểm tra và làm sạch dữ liệu để đưa vào phân tích. Việc kiểm tra và làm sạch dữ liệu được thực hiện trong file ...
 
 ### Questions:
-1. Có xu hướng thời gian nào liên quan đến doanh số của các doanh mục sản phẩm?
-2. Danh mục sản phẩm nào có doanh số bán hàng cao nhất?
+1. Danh mục sản phẩm nào có doanh số bán hàng cao nhất?
+2. Có xu hướng thời gian nào liên quan đến doanh số của các doanh mục sản phẩm?
 3. Có sự khác biệt về hiệu suất giữa các danh mục con trong từng danh mục sản phẩm không?
 4. Có mối liên hệ nào giữa danh mục sản phẩm và phân khúc khách hàng?
 
 ### Data analysis
+Danh mục sản phẩm nào có doanh số bán hàng cao nhất?
+![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/3f9c32dd-5e51-4694-ab6e-4d7cd4185107)
+dfsdgsdfgdsg
