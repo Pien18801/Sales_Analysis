@@ -2,8 +2,7 @@
 
 Tập dữ liệu được lấy từ kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-Dưới đây là mô tả ngắn gọn về các cột trong dữ liệu:
-
+Dưới đây là mô tả ngắn gọn về các cột trong dữ liệu:  
 Row ID: Một số duy nhất đại diện cho từng dòng trong tập dữ liệu.
 Order ID: Mã đặt hàng duy nhất cho mỗi đơn hàng của khách hàng.
 Order Date: Ngày đặt hàng của sản phẩm.
