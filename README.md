@@ -24,3 +24,6 @@ Quantity: Số lượng của sản phẩm.
 Discount: Giảm giá được cung cấp.  
 Profit: Lợi nhuận/Thua lỗ gánh chịu.  
 
+Sau khi đã có dữ liệu ta sẽ tiến hành kiểm tra và làm sạch dữ liệu để đưa vào phân tích. Việc kiểm tra và làm sạch dữ liệu được thực hiện trong file ...
+
+fsdfsf
