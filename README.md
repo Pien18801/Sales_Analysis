@@ -52,7 +52,8 @@ Dựa vào biểu đồ trên ta có thể thấy được cửa hàng có xu h�
 
 3. Có sự khác biệt về hiệu suất giữa các danh mục con trong từng danh mục sản phẩm không?
 
-![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/e0b76c7f-9619-4451-85e0-48ec2a821598)
+![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/101be8f5-54cd-40ec-a8c8-79d3500c0d74)
+
 
 
 
