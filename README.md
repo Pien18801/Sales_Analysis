@@ -25,7 +25,7 @@ Discount: Giảm giá được cung cấp.
 Profit: Lợi nhuận/Thua lỗ gánh chịu.  
 
 ### Data preprocessing:
-Sau khi đã có dữ liệu ta sẽ tiến hành kiểm tra và làm sạch dữ liệu để đưa vào phân tích. Việc kiểm tra và làm sạch dữ liệu được thực hiện trong file ...
+Sau khi đã có dữ liệu ta sẽ tiến hành kiểm tra và làm sạch dữ liệu để đưa vào phân tích. Việc kiểm tra và làm sạch dữ liệu được thực hiện trong file preprocessing.ipynb
 
 ### Questions:
 1. Danh mục sản phẩm nào có doanh số bán hàng cao nhất?
