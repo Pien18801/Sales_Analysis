@@ -34,8 +34,10 @@ Sau khi đã có dữ liệu ta sẽ tiến hành kiểm tra và làm sạch d�
 4. Có mối liên hệ nào giữa danh mục sản phẩm và phân khúc khách hàng?
 
 ### Data analysis
-Danh mục sản phẩm nào có doanh số bán hàng cao nhất?
+1. Danh mục sản phẩm nào có doanh số bán hàng cao nhất?
 
 ![image](https://github.com/Pien18801/Sales_Analysis/assets/92161666/3f9c32dd-5e51-4694-ab6e-4d7cd4185107)
 
-dfsdgsdfgdsg
+Từ biểu đồ trên ta có thể thấy doanh số cao nhất thuộc về danh mục technology (36.4%).
+
+
