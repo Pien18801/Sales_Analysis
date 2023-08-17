@@ -24,7 +24,13 @@ Quantity: Số lượng của sản phẩm.
 Discount: Giảm giá được cung cấp.  
 Profit: Lợi nhuận/Thua lỗ gánh chịu.  
 
-## Data preprocessing
+### Data preprocessing:
 Sau khi đã có dữ liệu ta sẽ tiến hành kiểm tra và làm sạch dữ liệu để đưa vào phân tích. Việc kiểm tra và làm sạch dữ liệu được thực hiện trong file ...
 
-fsdfsf
+### Questions:
+1. Có xu hướng thời gian nào liên quan đến doanh số của các doanh mục sản phẩm?
+2. Danh mục sản phẩm nào có doanh số bán hàng cao nhất?
+3. Có sự khác biệt về hiệu suất giữa các danh mục con trong từng danh mục sản phẩm không?
+4. Có mối liên hệ nào giữa danh mục sản phẩm và phân khúc khách hàng?
+
+### Data analysis
